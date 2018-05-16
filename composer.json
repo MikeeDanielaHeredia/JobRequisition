@@ -1,0 +1,8 @@
+{
+    "name": "mikeeheredia/job-requisition",
+    "description": "project",
+    "type": "project",
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
